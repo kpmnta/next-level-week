@@ -75,7 +75,7 @@
     margin-left: 0.8rem;
 }
 
-@media (max-width: 699px){
+@media (max-width: 110px){
     :root {
         font-size: 40%;
     }
